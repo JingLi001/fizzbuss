@@ -1,6 +1,6 @@
 # fizzbuss
 
-Fizzbuss is an interesting table game. 
+Fizzbuss is an interesting table game and it is also a simple python samples for newcomers to realize theis game. 
 
 The concept behind FizzBuzz is as follows:
 
@@ -9,11 +9,13 @@ The concept behind FizzBuzz is as follows:
 3. For each number that is a multiple of 5, print “Buzz” instead of the number
 4. For each number that is a multiple of 15, print “FizzBuzz” instead of the number
 
+The following is the description of this repo:
+
 1. [Installation](#installation)
 2. [Project Motivation](#motivation)
 3. [File Descriptions](#files)
 4. [Results](#results)
-5. [Licensing, Authors, and Acknowledgements](#licensing)
+
 
 ## Installation <a name="installation"></a>
 
