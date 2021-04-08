@@ -4,10 +4,10 @@ Fizzbuss is an interesting table game and it is also a simple python samples for
 
 The concept behind FizzBuzz is as follows:
 
-1. Write a program that prints the numbers 1-100, each on a new line
-2. For each number that is a multiple of 3, print “Fizz” instead of the number
-3. For each number that is a multiple of 5, print “Buzz” instead of the number
-4. For each number that is a multiple of 15, print “FizzBuzz” instead of the number
+*  Write a program that prints the numbers 1-100, each on a new line
+*  For each number that is a multiple of 3, print “Fizz” instead of the number
+*  For each number that is a multiple of 5, print “Buzz” instead of the number
+*  For each number that is a multiple of 15, print “FizzBuzz” instead of the number
 
 The following is the description of this repo:
 
